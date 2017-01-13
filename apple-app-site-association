@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "4D6LA585PP.ru.mail.cloud.dev",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
